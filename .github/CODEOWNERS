@@ -1,2 +1,2 @@
-app/ @shreya-nitor
-infra/ @laxmi-nitor
+app/**	@shreya-nitor
+infra/**	@laxmi-nitor
